@@ -1,0 +1,40 @@
+body{
+background-color: whitesmoke;
+text-align: center;
+}
+
+p{
+    text-align: center;
+}
+h6{color: blue;
+}
+h5{
+    color: green;
+}
+h2{ 
+    color: brown;
+}
+h4{
+    color: darkred;
+}
+h1{
+    color:red ;
+}
+
+ul{
+    color: red;
+}
+
+img{
+    width: 150px;
+    width: 150px;
+}
+
+li{
+    transition: 0.3s;
+}
+
+li:hover{
+    color: burlywood;
+    font-size: 30px;
+}
